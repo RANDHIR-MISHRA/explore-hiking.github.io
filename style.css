@@ -1,0 +1,109 @@
+#top-nav {
+    background-color: transparent;
+    font-size: 20px;
+    padding: 0.4% 3.5%;
+  }
+  #home {
+    margin-left: 400px;
+  }
+  #nav-items {
+    font-size: 20px;
+    font-family: Rockwell;
+    margin-top: 5px;
+  }
+  .nav-item {
+    margin-left: 20px;
+    margin-right: 10px;
+  }
+  
+  #search-box {
+    background-color: #e2c2b9;
+    color: white;
+    border: 0px;
+    /* box-shadow: 5px 5px 5px #00000021; */
+    border-radius: 22px;
+  }
+  #search-button {
+    background-color: #cdbba7;
+    border: 0px;
+    position: relative;
+    border-radius: 22px;
+    right: 34px;
+  }
+  #banner-btn1{
+    background-color: #cdbba7;
+    border: 0px;
+    margin-left: 1cm;
+
+    position: relative;
+    border-radius: 22px;
+    right: 34px;
+  }
+  #banner-btn2{
+    background-color: #cdbba7;
+    margin-left: 1cm;
+    border: 0px;
+    position: relative;
+    border-radius: 22px;
+    right: 34px;
+  }
+
+  .btn-hover.color-10 {
+    background-image: linear-gradient(
+      to right,
+      #ed6ea0,
+      #ec8c69,
+      #f7186a,
+      #fbb03b
+    );
+    box-shadow: 0 4px 15px 0 rgba(236, 116, 149, 0.75);
+  }
+  .btn-hover {
+    width: 150px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    margin: 10px;
+    height: 40px;
+    text-align: center;
+    border: none;
+    background-size: 300% 100%;
+  
+    border-radius: 50px;
+    moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+  }
+  
+  .btn-hover:hover {
+    background-position: 100% 0;
+    moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+  }
+  .btn-hover.color-7 {
+    background-image: linear-gradient(to right, #6253e1, #852D91, #A3A1FF, #F24645);
+    box-shadow: 0 4px 15px 0 rgba(126, 52, 161, 0.75);
+}
+  
+  #banner{
+    background-image: url(nimg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 150px;
+    padding-bottom: 120px;
+  }
+  #blog{
+    background-image: url(bg1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 150px;
+    padding-bottom: 120px;
+    
+  }
+  #button-4{
+   padding-top: 2cm; 
+  }
